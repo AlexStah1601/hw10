@@ -1,0 +1,91 @@
+
+.title{
+  text-align: center;
+}
+
+.header__logo-img{
+height: 10em;
+margin-right: auto;
+margin-left: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+p {
+  text-align: center;
+  color: #000;
+}
+
+header{
+  background-color:#000;
+  color: #fff;
+
+}
+
+ .nav--button{
+  -webkit-transform: rotate(-90deg);
+  -webkit-transform-origin: left;
+margin-left: 25px;
+height: 100px;
+  display:flex;
+  flex-direction: column-reverse;
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+
+.header__button {
+  height: 50px;
+  width: 200px;
+  border: solid white 2px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  line-height: 63px;
+  text-align: center;
+  margin-bottom: 31px;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.header__logo-img1{
+  height: 35px;
+
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+
+
+  .meter {
+    width: 150px;
+    height: 1px;  /* Может быть любой */
+    /* position: absolute; */
+    justify-content: center;
+    background: rgb(116, 116, 231);
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    padding: 10px;
+    -webkit-box-shadow: inset 0 -1px 1px rgba(255,255,255,0.3);
+    -moz-box-shadow   : inset 0 -1px 1px rgba(255,255,255,0.3);
+    box-shadow        : inset 0 -1px 1px rgba(255,255,255,0.3);
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+h2{
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(78, 78, 78);
+  flex-direction: column ;
+  font-size: 16px;
+  letter-spacing: 1px;
+    

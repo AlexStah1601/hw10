@@ -1,0 +1,13 @@
+@import "./until.scss";
+  $black:#000;
+  $color:#fff;
+
+
+@mixin setItCenter();
+
+&__main{
+  display:flex;
+  flex-direction:column;
+  text-decoration: none;
+  
+}

@@ -1,0 +1,16 @@
+@import "./hw10 07.07.19.css"
+  $black: #000;
+  $white: #fff
+
+
+@mixin setItCenter()
+
+$menu{
+  display:flex
+  flex-direction:column
+  text-decoration: none
+  background-color: #red
+}
+
+&bold{font-weight: bold}
+  
